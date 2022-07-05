@@ -6,3 +6,8 @@
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 print (" This is first prog in GitHub")
+
+
+print (" This is two save in GitHub")
+
+print (5+5)
