@@ -14,3 +14,6 @@ print (5+5)
 
 print (5*5)
 
+
+print('Add new line Print)
+
